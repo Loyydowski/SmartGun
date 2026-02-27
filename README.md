@@ -54,14 +54,7 @@ Projekt realizowany jest w modelu przyrostowym:
 - [ ] Wizualizacja "radaru" lub ostrzeżeń na HUD.
 - [ ] Optymalizacja zużycia energii i miniaturyzacja obudowy (druk 3D).
 
-## 🚀 Jak zacząć?
 
-*(Sekcja w budowie - tu pojawią się schematy połączeń oraz instrukcja wgrywania kodu)*
-
-1. Sklonuj repozytorium.
-2. Zainstaluj biblioteki Arduino (Adafruit GFX, SSD1306, MPU6050).
-3. Podłącz układ wg schematu w folderze `/docs`.
-4. Wgraj soft na ESP32.
 
 ---
 *Projekt inspirowany snem, realizowany przez inżynierię.* 🔧
